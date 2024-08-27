@@ -1,7 +1,7 @@
 
 
 ```markdown
-# FilmU-Movies v2.0.0
+# FilmU-Movies v2.1.0
 
 FilmU-Movies is a modern, ad-free streaming app that provides a seamless experience for movie enthusiasts. This app is completely free for all users, ensuring that everyone can enjoy their favorite films without interruptions.
 
